@@ -88,4 +88,4 @@ You can have many factories for one model. It is useful if you want to test your
 
 h2. Copyright
 
-Copyright (c) 2009 Michał Szajbe (http://codetunes.com), released under the MIT license.
+Copyright (c) 2009 Michał Szajbe, released under the MIT license.
